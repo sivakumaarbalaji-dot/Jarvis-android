@@ -2,24 +2,27 @@
   "name": "JARVIS Study Assistant",
   "short_name": "JARVIS",
   "description": "Personal AI study and routine assistant",
-  "start_url": "./",
+
+  "start_url": "./index.html",
   "scope": "./",
+
   "display": "standalone",
+
   "orientation": "portrait",
-  "theme_color": "#020817",
-  "background_color": "#020817",
+
+  "theme_color": "#020b18",
+  "background_color": "#020b18",
+
   "icons": [
     {
       "src": "./icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
       "src": "./icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
